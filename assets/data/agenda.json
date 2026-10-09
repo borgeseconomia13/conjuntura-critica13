@@ -1,0 +1,29 @@
+[
+  {
+    "titulo": "Caminhada A Bahia com Lula",
+    "tipo": "Caminhada",
+    "data": "2026-10-09",
+    "hora": "15:13",
+    "fim": "",
+    "local": "Concentração na Praça do Imbuí",
+    "endereco": "Rua das Gaivotas, Salvador/BA",
+    "mapa": "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a+do+Imbu%C3%AD+Salvador",
+    "destaque": "Presença confirmada do Timão: Jero, Wagner e Rui",
+    "descricao": "Vamos encher a rua em defesa do voto em Lula. Chame a turma e leve sua bandeira.",
+    "imagem": "assets/img/atos/caminhada-imbui.webp",
+    "imagem_w": 633,
+    "imagem_h": 849
+  },
+  {
+    "titulo": "Segundo turno",
+    "tipo": "Eleição",
+    "data": "2026-10-25",
+    "hora": "08:00",
+    "fim": "17:00",
+    "local": "Sua seção eleitoral",
+    "endereco": "Mesmo local do 1º turno. Confira no e-Título.",
+    "mapa": "",
+    "destaque": "",
+    "descricao": "Leve documento oficial com foto ou o e-Título. Vote e chame mais gente para votar."
+  }
+]

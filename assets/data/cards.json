@@ -1,0 +1,872 @@
+[
+ {
+  "n": 1,
+  "slug": "inflacao-geral",
+  "categoria": "precos",
+  "tema": "Inflação geral",
+  "recorte": "Brasil",
+  "periodo": "Até agosto de 2026",
+  "manchete": "Inflação menor",
+  "manchete2": "com Lula.",
+  "numero": "17,9%",
+  "apoio": "de alta acumulada dos preços com Lula, contra 25,3% com Bolsonaro, em 44 meses.",
+  "compTitulo": "Média anual equivalente",
+  "comp": [
+   [
+    "Bolsonaro",
+    "6,33%"
+   ],
+   [
+    "Lula",
+    "4,59%"
+   ]
+  ],
+  "periodos": "Bolsonaro: jan/2019–ago/2022 · Lula: jan/2023–ago/2026",
+  "fonte": "IBGE · IPCA. Série mensal do Banco Central (SGS 433).",
+  "nota": "IPCA: índice que acompanha os preços pagos pelas famílias. Inflação menor significa alta mais lenta; não significa preços menores.",
+  "img": "01-inflacao-geral",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 2,
+  "slug": "inflacao-alimentos",
+  "categoria": "precos",
+  "tema": "Alimentação e bebidas",
+  "recorte": "Brasil",
+  "periodo": "Até agosto de 2026",
+  "manchete": "Alimentos: inflação menor",
+  "manchete2": "com Lula.",
+  "numero": "15,9%",
+  "apoio": "de alta acumulada dos preços com Lula, contra 44,2% com Bolsonaro, em 44 meses.",
+  "compTitulo": "Média anual equivalente",
+  "comp": [
+   [
+    "Bolsonaro",
+    "10,50%"
+   ],
+   [
+    "Lula",
+    "4,11%"
+   ]
+  ],
+  "periodos": "Bolsonaro: jan/2019–ago/2022 · Lula: jan/2023–ago/2026",
+  "fonte": "IBGE · IPCA: Alimentação e bebidas. Banco Central (SGS 1635).",
+  "nota": "Inclui comida e bebida em casa e fora de casa; não só supermercado. Inflação menor significa alta mais lenta; não significa preços menores.",
+  "img": "02-inflacao-alimentos",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 3,
+  "slug": "homicidios-dolosos",
+  "categoria": "seguranca",
+  "tema": "Homicídios dolosos",
+  "recorte": "Brasil",
+  "periodo": "Até agosto de 2026",
+  "manchete": "Menos vítimas",
+  "manchete2": "com Lula.",
+  "numero": "15,9%",
+  "apoio": "menos vítimas registradas que nos mesmos 44 meses do governo Bolsonaro.",
+  "compTitulo": "Total nos 44 meses · vítimas de homicídio doloso",
+  "comp": [
+   [
+    "Bolsonaro",
+    "145.551"
+   ],
+   [
+    "Lula",
+    "122.429"
+   ]
+  ],
+  "periodos": "Bolsonaro: jan/2019–ago/2022 · Lula: jan/2023–ago/2026",
+  "fonte": "MJSP · Sinesp VDE. Registros de vítimas de homicídio doloso.",
+  "nota": "Homicídio doloso: matar com intenção ou assumindo o risco de matar. Não reúne todas as mortes violentas. Registros estaduais sujeitos a revisão.",
+  "img": "03-homicidios-dolosos",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 4,
+  "slug": "roubos-de-veiculos",
+  "categoria": "seguranca",
+  "tema": "Segurança",
+  "recorte": "Brasil",
+  "periodo": "Dados anuais: 2025",
+  "manchete": "Menos roubos de veículos",
+  "manchete2": "com Lula.",
+  "numero": "−29,4%",
+  "apoio": "de roubos registrados em 2025, na comparação com o ano de 2022.",
+  "compTitulo": "Comparação em destaque · mesmo indicador nos dois anos",
+  "comp": [
+   [
+    "Bolsonaro · 2022",
+    "148.102"
+   ],
+   [
+    "Lula · 2025",
+    "104.534"
+   ]
+  ],
+  "periodos": "Brasil · Valores anuais · Soma de janeiro a dezembro, 26 estados e Distrito Federal.",
+  "fonte": "Ministério da Justiça e Segurança Pública · Sinesp VDE, bases anuais.",
+  "nota": "Roubo envolve violência ou ameaça. Não inclui furtos. Registros sujeitos a revisão.",
+  "img": "04-roubos-de-veiculos",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 5,
+  "slug": "roubos-de-celulares",
+  "categoria": "seguranca",
+  "tema": "Segurança",
+  "recorte": "Brasil",
+  "periodo": "Dados anuais: 2025",
+  "manchete": "Menos roubos de celulares",
+  "manchete2": "com Lula.",
+  "numero": "−37,4%",
+  "apoio": "de roubos registrados em 2025, na comparação com o ano de 2022.",
+  "compTitulo": "Comparação em destaque · mesmo indicador nos dois anos",
+  "comp": [
+   [
+    "Bolsonaro · 2022",
+    "492.905"
+   ],
+   [
+    "Lula · 2025",
+    "308.723"
+   ]
+  ],
+  "periodos": "Brasil · Valores anuais · Série revisada 2018–2025, dados das polícias e secretarias estaduais.",
+  "fonte": "Fórum Brasileiro de Segurança Pública · Anuário 2026, gráfico 23.",
+  "nota": "Roubo envolve violência ou ameaça. Furtos são outra categoria e não entram nestes números.",
+  "img": "05-roubos-de-celulares",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 6,
+  "slug": "medicos-atencao-basica",
+  "categoria": "saude",
+  "tema": "Atenção básica",
+  "recorte": "Brasil",
+  "periodo": "Dados anuais: 2025",
+  "manchete": "Mais médicos na atenção básica",
+  "manchete2": "com Lula.",
+  "numero": "+101,9%",
+  "apoio": "mais vagas ocupadas em 2025 do que em 2022. O total mais que dobrou.",
+  "compTitulo": "Comparação em destaque · vagas ocupadas ao final do ano",
+  "comp": [
+   [
+    "Bolsonaro · 2022",
+    "13.535"
+   ],
+   [
+    "Lula · 2025",
+    "27.329"
+   ]
+  ],
+  "periodos": "Brasil · Valores anuais · Comparação do provimento federal.",
+  "fonte": "Ministério da Saúde · Relatórios de Gestão 2022 (p. 41), 2023 (p. 43), 2024 (p. 44–45) e 2025 (p. 209).",
+  "nota": "Inclui Mais Médicos e Médicos pelo Brasil; não é o total de médicos do SUS.",
+  "img": "06-medicos-atencao-basica",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 7,
+  "slug": "farmacia-popular",
+  "categoria": "saude",
+  "tema": "Farmácia Popular",
+  "recorte": "Brasil",
+  "periodo": "Dados anuais: 2025",
+  "manchete": "Farmácia Popular atende mais",
+  "manchete2": "com Lula.",
+  "numero": "+31,8%",
+  "apoio": "mais pessoas atendidas em 2025 do que em 2022. São 6,6 milhões a mais.",
+  "compTitulo": "Comparação em destaque · pessoas atendidas no ano",
+  "comp": [
+   [
+    "Bolsonaro · 2022",
+    "20,7 mi"
+   ],
+   [
+    "Lula · 2025",
+    "27,3 mi"
+   ]
+  ],
+  "periodos": "Brasil · Valores anuais · De 20.746.950 usuários em 2022 para 27.337.767 em 2025.",
+  "fonte": "Ministério da Saúde · Relatório de Gestão Integrado 2025, tabela 56, p. 178.",
+  "nota": "Uma pessoa pode usar o programa em vários anos; os valores anuais não devem ser somados.",
+  "img": "07-farmacia-popular",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 8,
+  "slug": "vacinacao-infantil",
+  "categoria": "saude",
+  "tema": "Vacinação infantil",
+  "recorte": "Brasil",
+  "periodo": "Série consultada: até 2024",
+  "manchete": "Vacinação infantil maior",
+  "manchete2": "com Lula.",
+  "numero": "+14 p.p.",
+  "apoio": "na cobertura da vacina contra difteria, tétano e coqueluche: 2022 → 2024.",
+  "compTitulo": "Crianças que receberam três doses (DTP)",
+  "comp": [
+   [
+    "Bolsonaro · 2022",
+    "77%"
+   ],
+   [
+    "Lula · 2024",
+    "91%"
+   ]
+  ],
+  "periodos": "Brasil · Valores anuais · Série do Banco Mundial consultada em 06/10/2026; 2025 ainda sem valor.",
+  "fonte": "OMS/UNICEF (WUENIC) · Banco Mundial, indicador SH.IMM.IDPT.",
+  "nota": "p.p. = pontos percentuais. Este dado mede uma vacina, não todas as vacinas.",
+  "img": "08-vacinacao-infantil",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 9,
+  "slug": "desemprego",
+  "categoria": "precos",
+  "tema": "Desemprego",
+  "recorte": "Brasil",
+  "periodo": "Até agosto de 2026",
+  "manchete": "Desemprego menor",
+  "manchete2": "com Lula.",
+  "numero": "5,3%",
+  "apoio": "de desemprego no trimestre encerrado em agosto de 2026.",
+  "compTitulo": "Trimestre junho–agosto",
+  "comp": [
+   [
+    "2022 · Bolsonaro",
+    "8,9%"
+   ],
+   [
+    "2026 · Lula",
+    "5,3%"
+   ]
+  ],
+  "periodos": "Taxas anuais 2019–2021 versus 2023–2025 · Destaque: agosto de 2026.",
+  "fonte": "IBGE · PNAD Contínua: retrospectiva anual. Série mensal: BCB/SGS 24369.",
+  "nota": "Desempregado: sem trabalho, disponível e procurando uma ocupação. O trimestre de 2026 é parcial.",
+  "img": "09-desemprego",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 10,
+  "slug": "carteira-assinada",
+  "categoria": "precos",
+  "tema": "Carteira assinada",
+  "recorte": "Brasil",
+  "periodo": "Até agosto de 2026",
+  "manchete": "Mais vagas formais",
+  "manchete2": "com Lula.",
+  "numero": "455 mil",
+  "apoio": "vagas a mais no saldo que nos mesmos 44 meses do governo Bolsonaro.",
+  "compTitulo": "Saldo acumulado de empregos em 44 meses",
+  "comp": [
+   [
+    "Bolsonaro",
+    "5,08 mi"
+   ],
+   [
+    "Lula",
+    "5,54 mi"
+   ]
+  ],
+  "periodos": "Bolsonaro: jan/2019–ago/2022 · Lula: jan/2023–ago/2026",
+  "fonte": "MTE · Caged/Novo Caged. Estoque encadeado pelo BCB (SGS 28763).",
+  "nota": "Saldo: contratações menos desligamentos. Não é o total de contratações. O BCB encadeia Caged (até 2019) e Novo Caged (desde 2020); há mudança de método.",
+  "img": "10-carteira-assinada",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 11,
+  "slug": "desalento",
+  "categoria": "precos",
+  "tema": "Desalento",
+  "recorte": "Mercado de trabalho",
+  "periodo": "Até agosto de 2026",
+  "manchete": "Menos desalento",
+  "manchete2": "com Lula.",
+  "numero": "2,1%",
+  "apoio": "é a taxa de desalento no trimestre junho–agosto de 2026; em 2022, era 3,8%.",
+  "compTitulo": "Taxa no trimestre junho–agosto do 4º ano",
+  "comp": [
+   [
+    "2022 · Bolsonaro",
+    "3,8%"
+   ],
+   [
+    "2026 · Lula",
+    "2,1%"
+   ]
+  ],
+  "periodos": "Taxas anuais de 2019–2021 e 2023–2025; quadro compara junho–agosto de 2022 e 2026.",
+  "fonte": "IBGE · PNAD Contínua. SIDRA 4679 (anual) e 6807 (trimestre móvel).",
+  "nota": "Desalentado: quer trabalhar, mas não procurou por falta de perspectivas. Taxa entre pessoas que trabalham, procuram trabalho ou estão desalentadas.",
+  "img": "11-desalento",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 12,
+  "slug": "renda-media",
+  "categoria": "precos",
+  "tema": "Renda do trabalho",
+  "recorte": "Brasil",
+  "periodo": "Até agosto de 2026",
+  "manchete": "Renda média sobe",
+  "manchete2": "com Lula.",
+  "numero": "+13,9%",
+  "apoio": "de ganho real, descontada a inflação, no período com Lula.",
+  "compTitulo": "Renda média no final · poder de compra de jun–ago/2026",
+  "comp": [
+   [
+    "Jun–ago/2022",
+    "R$ 3.216"
+   ],
+   [
+    "Jun–ago/2026",
+    "R$ 3.777"
+   ]
+  ],
+  "periodos": "Bolsonaro: jan/2019–ago/2022 · Lula: jan/2023–ago/2026",
+  "fonte": "IBGE · PNAD Contínua. SIDRA 6390, variável 5933.",
+  "nota": "Média de todos os trabalhos; inclui empregados e autônomos. Renda mensal habitual, valores na mesma base de preços.",
+  "img": "12-renda-media",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 13,
+  "slug": "salario-minimo",
+  "categoria": "precos",
+  "tema": "Salário mínimo",
+  "recorte": "Brasil",
+  "periodo": "Até agosto de 2026",
+  "manchete": "Mínimo compra mais",
+  "manchete2": "com Lula.",
+  "numero": "+14,8%",
+  "apoio": "de poder de compra do salário mínimo no período com Lula.",
+  "compTitulo": "Salário mínimo bruto · valor vigente",
+  "comp": [
+   [
+    "Agosto/2022",
+    "R$ 1.212"
+   ],
+   [
+    "Agosto/2026",
+    "R$ 1.621"
+   ]
+  ],
+  "periodos": "Bolsonaro: jan/2019–ago/2022 · Lula: jan/2023–ago/2026",
+  "fonte": "Banco Central · Salário mínimo (SGS 1619) e INPC/IBGE (SGS 188).",
+  "nota": "INPC: índice de preços usado aqui para descontar a inflação. Compara agosto do 4º ano com dezembro anterior à posse.",
+  "img": "13-salario-minimo",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 14,
+  "slug": "renda-total-trabalho",
+  "categoria": "precos",
+  "tema": "Renda total do trabalho",
+  "recorte": "Brasil",
+  "periodo": "Até agosto de 2026",
+  "manchete": "Renda dos trabalhadores",
+  "manchete2": "cresce mais com Lula.",
+  "numero": "+21,3%",
+  "apoio": "de ganho real, descontada a inflação, no período com Lula.",
+  "compTitulo": "Total recebido por mês · inflação descontada",
+  "comp": [
+   [
+    "Jun–ago/2022",
+    "R$ 306,6 bi"
+   ],
+   [
+    "Jun–ago/2026",
+    "R$ 385,6 bi"
+   ]
+  ],
+  "periodos": "Bolsonaro: jan/2019–ago/2022 · Lula: jan/2023–ago/2026",
+  "fonte": "IBGE · PNAD Contínua. SIDRA 6392, variável 6293.",
+  "nota": "Soma a renda habitual de quem trabalha; inclui empregados e autônomos. Valores no poder de compra de junho–agosto de 2026.",
+  "img": "14-renda-total-trabalho",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 15,
+  "slug": "pobreza",
+  "categoria": "renda",
+  "tema": "Pobreza por renda",
+  "recorte": "Brasil",
+  "periodo": "Dados anuais: 2024",
+  "manchete": "Menos pobreza",
+  "manchete2": "com Lula.",
+  "numero": "17,5 mi",
+  "apoio": "de pessoas a menos abaixo da linha da pobreza, entre 2022 e 2024.",
+  "compTitulo": "Parcela da população abaixo da linha da pobreza",
+  "comp": [
+   [
+    "2022 · Bolsonaro",
+    "31,6%"
+   ],
+   [
+    "2024 · Lula",
+    "23,1%"
+   ]
+  ],
+  "periodos": "Evolução 2019–2024 · Destaque: queda de 2022 a 2024.",
+  "fonte": "IBGE · Síntese de Indicadores Sociais 2025. Renda domiciliar por pessoa.",
+  "nota": "Pobreza: renda por pessoa inferior a R$ 694/mês, em valores de 2024. Linha do Banco Mundial: US$ 6,85 por dia em poder de compra comparável.",
+  "img": "15-pobreza",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 16,
+  "slug": "extrema-pobreza",
+  "categoria": "renda",
+  "tema": "Extrema pobreza",
+  "recorte": "Brasil",
+  "periodo": "Dados anuais: 2024",
+  "manchete": "Menos extrema pobreza",
+  "manchete2": "com Lula.",
+  "numero": "≈5 mi",
+  "apoio": "de pessoas a menos na extrema pobreza, entre 2022 e 2024.",
+  "compTitulo": "Parcela da população em extrema pobreza",
+  "comp": [
+   [
+    "2022 · Bolsonaro",
+    "5,9%"
+   ],
+   [
+    "2024 · Lula",
+    "3,5%"
+   ]
+  ],
+  "periodos": "Evolução 2019–2024 · Destaque: queda de 2022 a 2024.",
+  "fonte": "IBGE · Síntese de Indicadores Sociais 2025. Renda domiciliar por pessoa.",
+  "nota": "Extrema pobreza: renda por pessoa inferior a R$ 218/mês, em 2024. Este grupo já está na pobreza. Não some as duas reduções.",
+  "img": "16-extrema-pobreza",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 17,
+  "slug": "fome",
+  "categoria": "renda",
+  "tema": "Fome · insegurança alimentar grave",
+  "recorte": "Brasil",
+  "periodo": "FAO: triênio 2023–2025",
+  "manchete": "Menos fome",
+  "manchete2": "com Lula.",
+  "numero": "0,6%",
+  "apoio": "da população em insegurança alimentar grave em 2023–2025, contra 6,3% em 2019–2021.",
+  "compTitulo": "População afetada · média de cada período de 3 anos",
+  "comp": [
+   [
+    "Bolsonaro · 2019–2021",
+    "6,3%"
+   ],
+   [
+    "Lula · 2023–2025",
+    "0,6%"
+   ]
+  ],
+  "periodos": "Bolsonaro: média de 2019–2021 · Lula: média de 2023–2025",
+  "fonte": "FAO · FAOSTAT, Segurança Alimentar. Escala FIES, indicador 210401.",
+  "nota": "Situação de falta de alimentos, chegando a ficar sem comer por falta de recursos. Médias de três anos, não dados anuais. Não mistura FAO, IBGE e Rede PENSSAN.",
+  "img": "17-fome",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 18,
+  "slug": "desigualdade-gini",
+  "categoria": "renda",
+  "tema": "Desigualdade de renda",
+  "recorte": "Brasil",
+  "periodo": "Dados anuais: 2025",
+  "manchete": "Desigualdade de renda",
+  "manchete2": "ano a ano.",
+  "numero": "0,511",
+  "apoio": "foi o índice de Gini em 2025. Subiu ante 2024 (0,504), mas ficou abaixo de 2022.",
+  "compTitulo": "Índice de Gini · vai de 0 a 1; menor é melhor",
+  "comp": [
+   [
+    "2022 · Bolsonaro",
+    "0,517"
+   ],
+   [
+    "2025 · Lula",
+    "0,511"
+   ]
+  ],
+  "periodos": "Renda domiciliar por pessoa · Brasil: 2019–2025.",
+  "fonte": "IBGE · PNAD Contínua: Rendimento de todas as fontes. SIDRA 7435.",
+  "nota": "Considera renda do trabalho e de outras fontes dos moradores. 0 significa igualdade completa; valores mais próximos de 1, maior desigualdade.",
+  "img": "18-desigualdade-gini",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 19,
+  "slug": "pib",
+  "categoria": "economia",
+  "tema": "PIB",
+  "recorte": "Brasil",
+  "periodo": "Até junho de 2026",
+  "manchete": "PIB cresceu mais",
+  "manchete2": "com Lula.",
+  "numero": "9,9%",
+  "apoio": "de crescimento, descontada a inflação, nos primeiros 3 anos e 6 meses com Lula.",
+  "compTitulo": "Ritmo médio por ano · taxa anual equivalente",
+  "comp": [
+   [
+    "Bolsonaro",
+    "1,44%"
+   ],
+   [
+    "Lula",
+    "2,74%"
+   ]
+  ],
+  "periodos": "Bolsonaro: jan/2019–jun/2022 · Lula: jan/2023–jun/2026",
+  "fonte": "IBGE · Contas Nacionais Trimestrais. Banco Central (SGS 22109).",
+  "nota": "Base: 4º tri/2018 e 4º tri/2022. Mesmos 14 trimestres por governo. PIB é o valor dos bens e serviços finais produzidos no país.",
+  "img": "19-pib",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 20,
+  "slug": "agropecuaria",
+  "categoria": "economia",
+  "tema": "Agropecuária",
+  "recorte": "Brasil",
+  "periodo": "Até junho de 2026",
+  "manchete": "Agropecuária cresceu mais",
+  "manchete2": "com Lula.",
+  "numero": "23,6%",
+  "apoio": "de crescimento, descontada a inflação, nos primeiros 3 anos e 6 meses com Lula.",
+  "compTitulo": "Ritmo médio por ano · taxa anual equivalente",
+  "comp": [
+   [
+    "Bolsonaro",
+    "−0,63%"
+   ],
+   [
+    "Lula",
+    "6,25%"
+   ]
+  ],
+  "periodos": "Bolsonaro: jan/2019–jun/2022 · Lula: jan/2023–jun/2026",
+  "fonte": "IBGE · Contas Nacionais Trimestrais. Banco Central (SGS 22105).",
+  "nota": "Base: 4º tri/2018 e 4º tri/2022. Mesmos 14 trimestres por governo. Agropecuária: lavouras, pecuária e outras atividades do setor primário.",
+  "img": "20-agropecuaria",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 21,
+  "slug": "industria",
+  "categoria": "economia",
+  "tema": "Indústria",
+  "recorte": "Brasil",
+  "periodo": "Até junho de 2026",
+  "manchete": "Indústria cresceu mais",
+  "manchete2": "com Lula.",
+  "numero": "7,5%",
+  "apoio": "de crescimento, descontada a inflação, nos primeiros 3 anos e 6 meses com Lula.",
+  "compTitulo": "Ritmo médio por ano · taxa anual equivalente",
+  "comp": [
+   [
+    "Bolsonaro",
+    "0,99%"
+   ],
+   [
+    "Lula",
+    "2,10%"
+   ]
+  ],
+  "periodos": "Bolsonaro: jan/2019–jun/2022 · Lula: jan/2023–jun/2026",
+  "fonte": "IBGE · Contas Nacionais Trimestrais. Banco Central (SGS 22106).",
+  "nota": "Base: 4º tri/2018 e 4º tri/2022. Mesmos 14 trimestres por governo. Inclui fábricas, mineração, construção e serviços de água e energia.",
+  "img": "21-industria",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 22,
+  "slug": "exportacoes",
+  "categoria": "economia",
+  "tema": "Exportações de bens",
+  "recorte": "Brasil",
+  "periodo": "Até agosto de 2026",
+  "manchete": "Exportações maiores",
+  "manchete2": "com Lula.",
+  "numero": "+35,7%",
+  "apoio": "em valor exportado que nos mesmos 44 meses do governo Bolsonaro.",
+  "compTitulo": "Total nos 44 meses · bilhões de dólares, sem ajuste",
+  "comp": [
+   [
+    "Bolsonaro",
+    "US$ 947,5 bi"
+   ],
+   [
+    "Lula",
+    "US$ 1.286,0 bi"
+   ]
+  ],
+  "periodos": "Bolsonaro: jan/2019–ago/2022 · Lula: jan/2023–ago/2026",
+  "fonte": "Banco Central · Balanço de pagamentos. Exportação de bens (SGS 22708).",
+  "nota": "Valores em dólares de cada época, sem descontar a inflação. Inclui bens, não serviços.",
+  "img": "22-exportacoes",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 23,
+  "slug": "automoveis",
+  "categoria": "economia",
+  "tema": "Automóveis novos",
+  "recorte": "Brasil",
+  "periodo": "Até setembro de 2026",
+  "manchete": "Mais carros vendidos",
+  "manchete2": "com Lula.",
+  "numero": "+12,8%",
+  "apoio": "automóveis vendidos que nos mesmos 45 meses do governo Bolsonaro.",
+  "compTitulo": "Total nos 45 meses · automóveis novos",
+  "comp": [
+   [
+    "Bolsonaro",
+    "6,55 mi"
+   ],
+   [
+    "Lula",
+    "7,39 mi"
+   ]
+  ],
+  "periodos": "Bolsonaro: jan/2019–set/2022 · Lula: jan/2023–set/2026",
+  "fonte": "Fenabrave · Emplacamentos de automóveis. Banco Central (SGS 7384).",
+  "nota": "Emplacamentos usados como medida de vendas; inclui nacionais e importados. Exclui motos, caminhões, ônibus e comerciais leves.",
+  "img": "23-automoveis",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 24,
+  "slug": "investimento-federal",
+  "categoria": "economia",
+  "tema": "Investimento federal",
+  "recorte": "Brasil",
+  "periodo": "Até agosto de 2026",
+  "manchete": "Mais investimento pago",
+  "manchete2": "com Lula.",
+  "numero": "+30,2%",
+  "apoio": "de investimento federal pago, após descontar a inflação, nos mesmos 44 meses.",
+  "compTitulo": "Total nos 44 meses · inflação descontada",
+  "comp": [
+   [
+    "Bolsonaro",
+    "R$ 191,1 bi"
+   ],
+   [
+    "Lula",
+    "R$ 249,0 bi"
+   ]
+  ],
+  "periodos": "Bolsonaro: jan/2019–ago/2022 · Lula: jan/2023–ago/2026",
+  "fonte": "Tesouro Nacional · Investimento Público. Correção pelo IPCA/IBGE.",
+  "nota": "Obras, instalações, equipamentos e outros investimentos da União pagos. Inclui pagamentos de anos anteriores; exclui estatais e inversões financeiras.",
+  "img": "24-investimento-federal",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 25,
+  "slug": "rodovias-federais",
+  "categoria": "economia",
+  "tema": "Rodovias federais · DNIT",
+  "recorte": "Brasil",
+  "periodo": "Dados anuais até 2025",
+  "manchete": "Mais km implantados",
+  "manchete2": "e pavimentados.",
+  "numero": "+13,4%",
+  "apoio": "de extensão executada com Lula, nos três primeiros anos de cada governo.",
+  "compTitulo": "Extensão nos três primeiros anos",
+  "comp": [
+   [
+    "Bolsonaro",
+    "407,7 km"
+   ],
+   [
+    "Lula",
+    "462,2 km"
+   ]
+  ],
+  "periodos": "Bolsonaro: 2019–2021 · Lula: 2023–2025",
+  "fonte": "DNIT · Relatórios de Gestão de 2019, 2020, 2021, 2023, 2024 e 2025.",
+  "nota": "Obras do DNIT; não inclui todas as rodovias do país nem concessões. Exclui manutenção, restauração e duplicação. Obras podem cruzar governos.",
+  "img": "25-rodovias-federais",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 26,
+  "slug": "desmatamento",
+  "categoria": "economia",
+  "tema": "Desmatamento",
+  "recorte": "Amazônia Legal",
+  "periodo": "Último ciclo: 2025",
+  "manchete": "Menos desmatamento",
+  "manchete2": "com Lula.",
+  "numero": "37,3%",
+  "apoio": "menos área desmatada nos três ciclos anuais comparados.",
+  "compTitulo": "Total dos três ciclos · km²",
+  "comp": [
+   [
+    "Bolsonaro",
+    "34.018 km²"
+   ],
+   [
+    "Lula",
+    "21.313 km²"
+   ]
+  ],
+  "periodos": "Bolsonaro: ciclos 2019–2021 · Lula: ciclos 2023–2025",
+  "fonte": "INPE · Prodes/TerraBrasilis. Taxas anuais consolidadas da Amazônia Legal.",
+  "nota": "Cada ciclo vai de agosto do ano anterior a julho do ano indicado. Os ciclos 2019 e 2023 incluem cinco meses do governo anterior.",
+  "img": "26-desmatamento",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 27,
+  "slug": "cisternas",
+  "categoria": "economia",
+  "tema": "Acesso à água",
+  "recorte": "Brasil",
+  "periodo": "Dados anuais: 2025",
+  "manchete": "Mais cisternas entregues",
+  "manchete2": "com Lula.",
+  "numero": "7,3×",
+  "apoio": "o número de entregas de 2022, no ano de 2025. De 6,7 mil para 48,9 mil.",
+  "compTitulo": "Entregas do Programa Cisternas no ano",
+  "comp": [
+   [
+    "Bolsonaro · 2022",
+    "6,7 mil"
+   ],
+   [
+    "Lula · 2025",
+    "48,9 mil"
+   ]
+  ],
+  "periodos": "Brasil · Comparação entre dois anos completos: 2022 e 2025. Balanço de 2026: 104,3 mil entregas em 2023–2025.",
+  "fonte": "MDS · “Programa Cisternas supera 100 mil entregas desde 2023”.",
+  "nota": "Valores arredondados pelo MDS. Entregas podem decorrer de contratos de anos anteriores.",
+  "img": "27-cisternas",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 28,
+  "slug": "tempo-integral",
+  "categoria": "saude",
+  "tema": "Educação em tempo integral",
+  "recorte": "Brasil",
+  "periodo": "Dados anuais: 2025",
+  "manchete": "Mais ensino integral",
+  "manchete2": "com Lula.",
+  "numero": "+7,6 p.p.",
+  "apoio": "de alunos em tempo integral na rede pública: de 18,2% para 25,8%.",
+  "compTitulo": "Matrículas da rede pública em tempo integral",
+  "comp": [
+   [
+    "Bolsonaro · 2022",
+    "18,2%"
+   ],
+   [
+    "Lula · 2025",
+    "25,8%"
+   ]
+  ],
+  "periodos": "Brasil · Comparação entre 2022 e 2025 · p.p. = pontos percentuais.",
+  "fonte": "Inep · Censo Escolar 2025. MEC/MinC · Relatório Executivo Intersetorialidades, 2026.",
+  "nota": "Tempo integral: jornada de ao menos 7 horas por dia ou 35 horas por semana.",
+  "img": "28-tempo-integral",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 29,
+  "slug": "abandono-ensino-medio",
+  "categoria": "saude",
+  "tema": "Ensino médio",
+  "recorte": "Brasil",
+  "periodo": "Dados anuais: 2025",
+  "manchete": "Menos abandono escolar",
+  "manchete2": "com Lula.",
+  "numero": "−3,5 p.p.",
+  "apoio": "na taxa de abandono durante o ensino médio: de 5,7% em 2022 a 2,2% em 2025.",
+  "compTitulo": "Alunos que abandonaram o ano letivo",
+  "comp": [
+   [
+    "Bolsonaro · 2022",
+    "5,7%"
+   ],
+   [
+    "Lula · 2025",
+    "2,2%"
+   ]
+  ],
+  "periodos": "Brasil · Valores anuais · Todas as redes de ensino.",
+  "fonte": "Inep/Censo Escolar · Anuário Brasileiro da Educação Básica 2026 (elaboração: Todos Pela Educação).",
+  "nota": "Abandono no ano não equivale a estar fora da escola. A pandemia afetou 2020–2021.",
+  "img": "29-abandono-ensino-medio",
+  "w": 720,
+  "h": 900
+ },
+ {
+  "n": 30,
+  "slug": "merenda-escolar",
+  "categoria": "saude",
+  "tema": "Alimentação escolar",
+  "recorte": "Brasil",
+  "periodo": "Valores de agosto/2026",
+  "manchete": "Mais verba para merenda",
+  "manchete2": "com Lula.",
+  "numero": "+34,3%",
+  "apoio": "de aumento acima da inflação no valor federal por aluno: dezembro/2022 → agosto/2026.",
+  "compTitulo": "Repasse federal por aluno, por dia de aula · R$ de ago/2026",
+  "comp": [
+   [
+    "Bolsonaro · dez/22",
+    "R$ 0,42"
+   ],
+   [
+    "Lula · ago/26",
+    "R$ 0,57"
+   ]
+  ],
+  "periodos": "Tarifa de dezembro em 2022–2025; tarifa vigente em agosto de 2026. Turno parcial, fundamental e médio.",
+  "fonte": "FNDE · Informe CAE 3/2023 e Resolução CD/FNDE 4/2026. Correção pelo IPCA (BCB/SGS 433).",
+  "nota": "Complemento federal para merenda; estados e municípios também financiam a alimentação escolar.",
+  "img": "30-merenda-escolar",
+  "w": 720,
+  "h": 900
+ }
+]
